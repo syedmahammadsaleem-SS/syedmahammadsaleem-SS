@@ -1,171 +1,188 @@
-# Hi, I'm Syed Mahammad Saleem 👋
+# Hi 👋, I'm Syed Mahammad Saleem
 
-### 📊 Data Analyst | Python | SQL | Power BI | Excel
+### 📊 Data Analyst | SQL | Excel | Power BI | Python
 
-I'm a **Computer Science Engineering graduate** focused on **Data Analytics and Business Intelligence**.
+🎓 **B.Tech Computer Science & Engineering Graduate — May 2026**  
+📍 Bangalore, Karnataka, India  
+🎯 **Open to Entry-Level Data Analyst Opportunities**
 
-I enjoy turning raw data into meaningful insights through **data cleaning, SQL analysis, visualization, dashboards, and business storytelling**.
+I’m a B.Tech Computer Science & Engineering graduate passionate about **Data Analytics, Business Intelligence, and turning raw data into actionable business insights**.
 
-🎯 **Currently seeking:** Data Analyst opportunities  
-📍 **Location:** Andhra Pradesh, India
-
----
-
-## 🧠 What I Do
-
-- 📊 Analyze data to find trends, patterns, and business insights
-- 🧹 Clean and transform real-world datasets
-- 🗄️ Write SQL queries for business analysis
-- 📈 Build interactive dashboards and reports
-- 🐍 Perform data analysis using Python and Pandas
-- 💡 Translate analytical findings into actionable business recommendations
-- 🔧 Document projects using Git and GitHub
+I work across the complete analytics lifecycle — from **data cleaning and exploratory analysis to SQL business analysis, dashboard development, KPI tracking, and data-driven recommendations**.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### SQL & Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 B.Tech in Computer Science & Engineering — **CGPA: 8.44**
+- 📅 Graduated in **May 2026**
+- 💼 Completed a **120-hour Data Analytics Internship**
+- 📊 Analyzed **149,116 sales transactions**
+- 👥 Analyzed **1,470 employee records**
+- 🧹 Data Cleaning, Transformation & EDA
+- 📈 Power BI & Excel Dashboard Development
+- 🐍 Python Data Analysis with Pandas & NumPy
+- 🗄️ SQL & MySQL Business Analysis
+- 💡 Interested in solving real-world business problems using data
 
 ---
 
-## 📊 Featured Projects
+## 🛠️ Technical Skills
 
-### ☕ Coffee Sales Analytics
+### 📊 Data Analytics
+`Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Cleaning` `Data Transformation`
 
-**Python | Pandas | MySQL | Excel | Git**
+### 🗄️ SQL & Database
+`SQL` `MySQL` `CTEs` `Window Functions` `RANK()` `LAG()` `Running Totals` `MoM Analysis`
 
-End-to-end sales analytics project analyzing **149K+ coffee transactions** across 3 stores.
+### 📈 Business Intelligence
+`Power BI` `Power Query` `DAX` `KPI Development` `Dashboard Development`
 
-**What I did:**
-- Cleaned and explored sales data using Python and Pandas
-- Performed business analysis using MySQL
-- Used CTEs, window functions, aggregations, and date analysis
+### 📑 Excel
+`PivotTables` `PivotCharts` `Slicers` `Excel Tables` `KPI Cards`
+
+### 🔧 Tools
+`Git` `GitHub` `Jupyter Notebook` `Google Colab`
+
+---
+
+# 🚀 Featured Projects
+
+## ☕ Coffee Sales Analytics
+
+**Python | Pandas | NumPy | Matplotlib | MySQL | Excel**
+
+📊 **149,116 Transactions**  
+🏪 **3 Store Locations**  
+📅 **January 2023 – June 2023**
+
+Analyzed coffee sales data to understand revenue, product, store, and time-based sales performance.
+
+### 🔍 Key Highlights
+
+- Analyzed **149,116 sales transactions**
+- Cleaned and explored data using Python, Pandas and NumPy
+- Created visualizations using Matplotlib
+- Performed MySQL business analysis
+- Used CTEs and window functions
+- Applied `RANK()` and `LAG()`
+- Calculated running totals
+- Performed month-over-month analysis
 - Built an interactive Excel dashboard
-- Analyzed revenue, products, stores, and sales trends
-- Converted analytical findings into business insights
+- Created KPI cards, PivotTables, PivotCharts and Slicers
 
-**Key findings:**
-- 💰 ₹698.8K total revenue
-- ☕ Coffee generated 38.63% of revenue
-- 🏪 Hell's Kitchen was the top-performing store
-- 📅 June was the strongest month
-- 🏆 Top 10 products contributed 25.38% of revenue
-- 📈 Weekdays generated approximately 72% of revenue
-
-🔗 [View Project](https://github.com/syedmahammadsaleem-SS/coffee-sales-analytics)
+🔗 **[View Project](https://github.com/syedmahammadsaleem-SS/coffee-sales-analytics)**
 
 ---
 
-### 🏦 Loan Default Risk Analysis
+## 👥 HR Workforce & Attrition Intelligence
 
-**Python | Pandas | Data Cleaning | EDA | Business Analysis**
+**Power BI | Power Query | DAX**
 
-Analyzed loan application data to identify patterns associated with loan default risk.
+📊 **1,470 Employee Records**  
+📈 **Interactive HR Analytics Dashboard**
 
-**Focus areas:**
-- Data quality and missing-value analysis
-- Exploratory data analysis
-- Customer and loan characteristics
-- Risk-related patterns
-- Business-oriented insights
+Built an HR analytics solution to understand workforce characteristics and observed employee attrition patterns.
 
-🔗 [View Project](https://github.com/syedmahammadsaleem-SS/loan-default-risk-analysis)
+### 🔍 Key Highlights
 
----
+- Prepared and transformed **1,470 employee records**
+- Used Power Query for data transformation
+- Performed data-type validation
+- Handled missing values and duplicates
+- Created DAX measures for HR KPIs
+- Analyzed Total Employees and Total Attrition
+- Calculated Attrition Rate
+- Analyzed Average Age and Monthly Income
+- Built interactive KPI cards
+- Added interactive slicers
+- Analyzed department, job role, age group, business travel and income band
+- Generated data-driven HR recommendations
 
-### 👥 HR Workforce Attrition Intelligence
-
-**Power BI | Data Analysis | Business Intelligence**
-
-Developing a workforce analytics project focused on employee attrition, workforce demographics, and HR performance indicators.
-
-**Focus areas:**
-- Employee attrition
-- Workforce trends
-- Department analysis
-- Employee demographics
-- KPI-driven HR dashboards
-
-🔗 [View Project](https://github.com/syedmahammadsaleem-SS/HR-Workforce-Attrition-Intelligence)
+🔗 **[View Project](https://github.com/syedmahammad-saleem-SS/HR-Workforce-Attrition-Intelligence)**
 
 ---
 
-### 🤖 SmartSalesAI
+# 💼 Internship Experience
 
-**AI | Data Analytics | Dashboard**
+### Data Analytics Intern
 
-An AI-powered analytics dashboard designed to help users explore business data and generate meaningful insights.
+**EduNoVerse Tech Solutions**  
+**August 2025 – October 2025**
 
-🔗 [View Project](https://github.com/syedmahammadsaleem-SS/SmartSalesAI)
-
----
-
-## 💼 Experience
-
-### Data Analyst Intern — SmartBridge Pvt. Ltd.
-**Jul 2024 – Sep 2024**
-
-Worked on data analytics concepts and practical projects involving data analysis and visualization.
-
-### Python Intern — ProgMaster Pvt. Ltd.
-**Jan 2024**
-
-Gained practical experience with Python programming and development concepts.
+- Completed a **120-hour Data Analytics Internship**
+- Worked across the data analytics lifecycle
+- Practiced data preparation and exploratory analysis
+- Worked on data interpretation and insight generation
+- Developed analytical problem-solving skills
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Bachelor of Technology — Computer Science & Engineering**  
-Siddhartha Institute of Science and Technology, Puttur
+### B.Tech — Computer Science & Engineering
 
----
+**Siddhartha Institute of Science and Technology, Puttur**
 
-## 🏆 Certifications & Achievements
-
-- **NPTEL — Industry 4.0 & IoT (IIT Kharagpur)** — Top 20%
-- **Data Analytics — SmartBridge × APSCHE**
-- **Python Internship — ProgMaster Pvt. Ltd.**
+**Specialization:** IoT & Automation  
+**Graduated:** May 2026  
+**CGPA:** 8.44
 
 ---
 
-## 📈 My Data Analytics Workflow
+# 🏆 Certifications
 
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL Business Analysis
-   ↓
-Data Visualization
-   ↓
-Dashboard
-   ↓
-Business Insights
-   ↓
-Actionable Recommendations
+- 🏅 **NPTEL Elite** — Introduction to Industry 4.0 and Industrial Internet of Things — IIT Kharagpur
+- 📊 **Data Analytics with Tableau** — SmartBridge Educational Services + APSCHE
+- 🐍 **Python Internship — 70 Hours** — ProgMaster Pvt. Ltd.
+
+---
+
+# 🎯 Currently Looking For
+
+I am actively seeking opportunities as:
+
+- 📊 Data Analyst
+- 📈 Junior Data Analyst
+- 💼 Business Analyst
+- 📉 BI Analyst
+- 📋 Reporting Analyst
+- 🧮 Data Analytics Professional
+
+I’m open to **entry-level roles, graduate opportunities, and analytics teams** where I can learn, contribute, and grow.
+
+---
+
+# 📫 Connect With Me
+
+### 💼 LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/syed-mahammad-saleem-368301264)
+
+### 💻 GitHub
+
+[Explore My GitHub](https://github.com/syedmahammad-saleem-SS)
+
+### 📧 Email
+
+[syedmahammadsaleem@gmail.com](mailto:syedmahammadsaleem@gmail.com)
+
+---
+
+# 📊 My Analytics Philosophy
+
+> **Data is valuable when it helps people make better decisions.**
+
+I’m continuously improving my skills in **SQL, Excel, Power BI, Python, statistics, and business analytics** while building practical projects that demonstrate real-world problem solving.
+
+---
+
+## ⭐ Let's Connect
+
+If you're a **recruiter, hiring manager, data professional, or fellow learner**, feel free to connect.
+
+⭐ Star my repositories if you find them useful  
+💬 Share feedback and suggestions  
+🤝 Let's connect and learn together
+
+**Thanks for visiting my profile! 🚀**
