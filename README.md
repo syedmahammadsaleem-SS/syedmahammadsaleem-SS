@@ -1,188 +1,135 @@
 # Hi 👋, I'm Syed Mahammad Saleem
 
-### 📊 Data Analyst | SQL | Excel | Power BI | Python
+### Aspiring Web Developer | Frontend & Backend Development
 
-🎓 **B.Tech Computer Science & Engineering Graduate — May 2026**  
+🎓 B.Tech Computer Science & Engineering Graduate — May 2026  
 📍 Bangalore, Karnataka, India  
-🎯 **Open to Entry-Level Data Analyst Opportunities**
+💻 Interested in building responsive websites and practical web applications  
+🎯 Open to entry-level Web Developer opportunities
 
-I’m a B.Tech Computer Science & Engineering graduate passionate about **Data Analytics, Business Intelligence, and turning raw data into actionable business insights**.
+I am a Computer Science graduate interested in web development and building useful software applications.
 
-I work across the complete analytics lifecycle — from **data cleaning and exploratory analysis to SQL business analysis, dashboard development, KPI tracking, and data-driven recommendations**.
-
----
+I enjoy learning new technologies, solving problems, and turning ideas into working projects. I focus on improving my frontend and backend development skills through practical projects.
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — **CGPA: 8.44**
-- 📅 Graduated in **May 2026**
-- 💼 Completed a **120-hour Data Analytics Internship**
-- 📊 Analyzed **149,116 sales transactions**
-- 👥 Analyzed **1,470 employee records**
-- 🧹 Data Cleaning, Transformation & EDA
-- 📈 Power BI & Excel Dashboard Development
-- 🐍 Python Data Analysis with Pandas & NumPy
-- 🗄️ SQL & MySQL Business Analysis
-- 💡 Interested in solving real-world business problems using data
-
----
+- 🌐 Learning and building with HTML, CSS and JavaScript.
+- ⚛️ Developing my knowledge of React.js.
+- 🟢 Exploring backend development with Node.js and Express.js.
+- 🗄️ Practising database operations using MySQL.
+- 🛒 Currently developing SmartCart, a shopping application.
+- 📚 Built LearnHub, a responsive Learning Management System.
+- 📊 Have additional experience in Python, SQL and Data Analytics.
+- 🚀 Believe in learning by building real-world projects.
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics
-`Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Cleaning` `Data Transformation`
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
 
-### 🗄️ SQL & Database
-`SQL` `MySQL` `CTEs` `Window Functions` `RANK()` `LAG()` `Running Totals` `MoM Analysis`
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
 
-### 📈 Business Intelligence
-`Power BI` `Power Query` `DAX` `KPI Development` `Dashboard Development`
+**Database**
+- MySQL
+- SQL
 
-### 📑 Excel
-`PivotTables` `PivotCharts` `Slicers` `Excel Tables` `KPI Cards`
+**Programming & Data Analytics**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Microsoft Excel
 
-### 🔧 Tools
-`Git` `GitHub` `Jupyter Notebook` `Google Colab`
+**Tools**
+- Visual Studio Code
+- Git
+- GitHub
+- Google Colab
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+### 1. LearnHub – Learning Management System
 
-## ☕ Coffee Sales Analytics
+A responsive Learning Management System designed to provide a simple online learning experience.
 
-**Python | Pandas | NumPy | Matplotlib | MySQL | Excel**
+**Features**
+- Course and lesson navigation
+- YouTube video lessons
+- Learning notes alongside videos
+- Responsive user interface
 
-📊 **149,116 Transactions**  
-🏪 **3 Store Locations**  
-📅 **January 2023 – June 2023**
+**Technologies:** HTML5, CSS3, JavaScript
 
-Analyzed coffee sales data to understand revenue, product, store, and time-based sales performance.
+🔗 Live Demo: https://learnhublms-portal.netlify.app/
 
-### 🔍 Key Highlights
+### 2. SmartCart – Shopping Application
 
-- Analyzed **149,116 sales transactions**
-- Cleaned and explored data using Python, Pandas and NumPy
-- Created visualizations using Matplotlib
-- Performed MySQL business analysis
-- Used CTEs and window functions
-- Applied `RANK()` and `LAG()`
-- Calculated running totals
-- Performed month-over-month analysis
-- Built an interactive Excel dashboard
-- Created KPI cards, PivotTables, PivotCharts and Slicers
+Currently developing a shopping application with a frontend, backend APIs and MySQL database integration.
 
-🔗 **[View Project](https://github.com/syedmahammadsaleem-SS/coffee-sales-analytics)**
+**Current development focus**
+- Product management
+- Backend API development
+- MySQL database integration
+- Frontend development
 
----
+**Technologies:** JavaScript, Node.js, Express.js, MySQL
 
-## 👥 HR Workforce & Attrition Intelligence
+### 3. SmartSalesAI – AI-Powered Data Analytics Dashboard
 
-**Power BI | Power Query | DAX**
+A project focused on presenting data analytics through a dashboard interface.
 
-📊 **1,470 Employee Records**  
-📈 **Interactive HR Analytics Dashboard**
+**Technology:** HTML
 
-Built an HR analytics solution to understand workforce characteristics and observed employee attrition patterns.
+### 4. Coffee Sales Analytics
 
-### 🔍 Key Highlights
+An end-to-end data analytics project using Python, MySQL and Excel.
 
-- Prepared and transformed **1,470 employee records**
-- Used Power Query for data transformation
-- Performed data-type validation
-- Handled missing values and duplicates
-- Created DAX measures for HR KPIs
-- Analyzed Total Employees and Total Attrition
-- Calculated Attrition Rate
-- Analyzed Average Age and Monthly Income
-- Built interactive KPI cards
-- Added interactive slicers
-- Analyzed department, job role, age group, business travel and income band
-- Generated data-driven HR recommendations
+**Project Highlights**
+- Analyzed 149,116 sales transactions.
+- Explored sales across three store locations.
+- Performed data cleaning and exploratory analysis.
+- Used SQL CTEs and window functions.
+- Built an interactive Excel dashboard.
 
-🔗 **[View Project](https://github.com/syedmahammad-saleem-SS/HR-Workforce-Attrition-Intelligence)**
+**Technologies:** Python, Pandas, NumPy, Matplotlib, MySQL, Excel
 
----
+## 📊 Data Analytics Experience
 
-# 💼 Internship Experience
+I also have practical experience working with data analytics projects and internship activities.
 
-### Data Analytics Intern
+- Analyzed 1,470 employee records using Power BI.
+- Created interactive dashboards and KPI measures.
+- Worked with Python, SQL, Excel and data visualization.
 
-**EduNoVerse Tech Solutions**  
-**August 2025 – October 2025**
+## 🎓 Education
 
-- Completed a **120-hour Data Analytics Internship**
-- Worked across the data analytics lifecycle
-- Practiced data preparation and exploratory analysis
-- Worked on data interpretation and insight generation
-- Developed analytical problem-solving skills
+**Bachelor of Technology — Computer Science and Engineering**
 
----
+Siddhartha Institute of Science and Technology, Puttur
 
-# 🎓 Education
+- Specialization: IoT and Automation
+- Graduated: May 2026
+- CGPA: 8.44
 
-### B.Tech — Computer Science & Engineering
+## 📫 Connect With Me
 
-**Siddhartha Institute of Science and Technology, Puttur**
+- 💼 LinkedIn: https://www.linkedin.com/in/syed-mahammad-saleem-368301264
+- 🌐 Portfolio: https://my-portfolio-orcin-psi-52.vercel.app/
+- 📧 Email: syedmahammad saleem@gmail.com
 
-**Specialization:** IoT & Automation  
-**Graduated:** May 2026  
-**CGPA:** 8.44
+## 🌱 My Learning Journey
 
----
+I am continuously learning, practising and building projects to improve my software development skills.
 
-# 🏆 Certifications
+My goal is to become a skilled Web Developer by understanding the fundamentals, writing better code and building practical applications.
 
-- 🏅 **NPTEL Elite** — Introduction to Industry 4.0 and Industrial Internet of Things — IIT Kharagpur
-- 📊 **Data Analytics with Tableau** — SmartBridge Educational Services + APSCHE
-- 🐍 **Python Internship — 70 Hours** — ProgMaster Pvt. Ltd.
+⭐ Feel free to explore my repositories and share your feedback.
 
----
-
-# 🎯 Currently Looking For
-
-I am actively seeking opportunities as:
-
-- 📊 Data Analyst
-- 📈 Junior Data Analyst
-- 💼 Business Analyst
-- 📉 BI Analyst
-- 📋 Reporting Analyst
-- 🧮 Data Analytics Professional
-
-I’m open to **entry-level roles, graduate opportunities, and analytics teams** where I can learn, contribute, and grow.
-
----
-
-# 📫 Connect With Me
-
-### 💼 LinkedIn
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/syed-mahammad-saleem-368301264)
-
-### 💻 GitHub
-
-[Explore My GitHub](https://github.com/syedmahammad-saleem-SS)
-
-### 📧 Email
-
-[syedmahammadsaleem@gmail.com](mailto:syedmahammadsaleem@gmail.com)
-
----
-
-# 📊 My Analytics Philosophy
-
-> **Data is valuable when it helps people make better decisions.**
-
-I’m continuously improving my skills in **SQL, Excel, Power BI, Python, statistics, and business analytics** while building practical projects that demonstrate real-world problem solving.
-
----
-
-## ⭐ Let's Connect
-
-If you're a **recruiter, hiring manager, data professional, or fellow learner**, feel free to connect.
-
-⭐ Star my repositories if you find them useful  
-💬 Share feedback and suggestions  
-🤝 Let's connect and learn together
-
-**Thanks for visiting my profile! 🚀**
+Thanks for visiting my profile!
