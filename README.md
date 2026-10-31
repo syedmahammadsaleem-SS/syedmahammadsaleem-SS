@@ -1,36 +1,33 @@
 # Hi 👋, I'm Syed Mahammad Saleem
 
-### Aspiring Web Developer | Frontend & Backend Development
+### Aspiring Web Developer
 
-🎓 B.Tech Computer Science & Engineering Graduate — May 2026  
-📍 Bangalore, Karnataka, India  
-💻 Interested in building responsive websites and practical web applications  
-🎯 Open to entry-level Web Developer opportunities
+🎓 B.Tech Computer Science and Engineering Graduate (2026)  
+📍 Bangalore, India  
+💻 Interested in Frontend and Backend Development
 
-I am a Computer Science graduate interested in web development and building useful software applications.
+I'm a Computer Science graduate interested in web development. I enjoy building websites, trying out new technologies and learning by writing code.
 
-I enjoy learning new technologies, solving problems, and turning ideas into working projects. I focus on improving my frontend and backend development skills through practical projects.
+I've worked with HTML, CSS and JavaScript, and I'm currently learning more about backend development and databases. I prefer practising what I learn by building projects rather than just reading about it.
 
-## 👨‍💻 About Me
+## 👨‍💻 A Little About Me
 
-- 🌐 Learning and building with HTML, CSS and JavaScript.
-- ⚛️ Developing my knowledge of React.js.
-- 🟢 Exploring backend development with Node.js and Express.js.
-- 🗄️ Practising database operations using MySQL.
-- 🛒 Currently developing SmartCart, a shopping application.
-- 📚 Built LearnHub, a responsive Learning Management System.
-- 📊 Have additional experience in Python, SQL and Data Analytics.
-- 🚀 Believe in learning by building real-world projects.
+- I enjoy creating websites and working on their design and functionality.
+- I have built LearnHub, a simple online learning platform.
+- I'm currently working on SmartCart, a shopping application.
+- I'm learning React.js, Node.js and Express.js.
+- I have also worked on projects involving Python, SQL and Power BI.
+- I like exploring how applications work, from the user interface to the database.
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-**Frontend Development**
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - Responsive Web Design
 
-**Backend Development**
+**Backend**
 - Node.js
 - Express.js
 - REST APIs
@@ -39,7 +36,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into work
 - MySQL
 - SQL
 
-**Programming & Data Analytics**
+**Other Technologies**
 - Python
 - Pandas
 - NumPy
@@ -48,69 +45,61 @@ I enjoy learning new technologies, solving problems, and turning ideas into work
 - Microsoft Excel
 
 **Tools**
-- Visual Studio Code
+- VS Code
 - Git
 - GitHub
 - Google Colab
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. LearnHub – Learning Management System
+### LearnHub – Learning Management System
 
-A responsive Learning Management System designed to provide a simple online learning experience.
+I built LearnHub as a simple platform for people to access course content in one place.
 
-**Features**
-- Course and lesson navigation
-- YouTube video lessons
-- Learning notes alongside videos
-- Responsive user interface
+Users can browse lessons, watch YouTube videos and read notes alongside the videos.
 
-**Technologies:** HTML5, CSS3, JavaScript
+**Built with:** HTML, CSS and JavaScript
 
-🔗 Live Demo: https://learnhublms-portal.netlify.app/
+🔗 [Visit LearnHub](https://learnhublms-portal.netlify.app/)
 
-### 2. SmartCart – Shopping Application
+### SmartCart – Shopping Application
 
-Currently developing a shopping application with a frontend, backend APIs and MySQL database integration.
+SmartCart is a shopping application I'm currently developing.
 
-**Current development focus**
-- Product management
-- Backend API development
-- MySQL database integration
-- Frontend development
+I've started working on the backend using Node.js and Express.js and connected it with a MySQL database. I'm also working on the frontend.
 
-**Technologies:** JavaScript, Node.js, Express.js, MySQL
+**Built with:** JavaScript, Node.js, Express.js and MySQL
 
-### 3. SmartSalesAI – AI-Powered Data Analytics Dashboard
+### SmartSalesAI – AI-Powered Data Analytics Dashboard
 
-A project focused on presenting data analytics through a dashboard interface.
+A dashboard project focused on displaying and exploring data.
 
 **Technology:** HTML
 
-### 4. Coffee Sales Analytics
+### Coffee Sales Analytics
 
-An end-to-end data analytics project using Python, MySQL and Excel.
+For this project, I worked with more than 149,000 coffee sales records from three store locations.
 
-**Project Highlights**
-- Analyzed 149,116 sales transactions.
-- Explored sales across three store locations.
-- Performed data cleaning and exploratory analysis.
-- Used SQL CTEs and window functions.
-- Built an interactive Excel dashboard.
+I used Python for data cleaning and analysis, MySQL for querying the data, and Excel to create an interactive dashboard.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, MySQL, Excel
+**What I worked on:**
+- Data cleaning and exploration using Pandas and NumPy.
+- Visualizations using Matplotlib.
+- SQL queries using CTEs and window functions.
+- Running totals and month-over-month analysis.
+- Excel dashboard with PivotTables, charts and slicers.
 
-## 📊 Data Analytics Experience
+**Built with:** Python, Pandas, NumPy, Matplotlib, MySQL and Excel
 
-I also have practical experience working with data analytics projects and internship activities.
+## 📊 Other Experience
 
-- Analyzed 1,470 employee records using Power BI.
-- Created interactive dashboards and KPI measures.
-- Worked with Python, SQL, Excel and data visualization.
+I have also worked on data analytics projects and completed internships in Data Analytics and Python.
+
+One of my projects involved analysing 1,470 employee records using Power BI, Power Query and DAX to understand workforce composition and employee attrition.
 
 ## 🎓 Education
 
-**Bachelor of Technology — Computer Science and Engineering**
+**B.Tech – Computer Science and Engineering**
 
 Siddhartha Institute of Science and Technology, Puttur
 
@@ -120,16 +109,8 @@ Siddhartha Institute of Science and Technology, Puttur
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/syed-mahammad-saleem-368301264
-- 🌐 Portfolio: https://my-portfolio-orcin-psi-52.vercel.app/
-- 📧 Email: syedmahammad saleem@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-mahammad-saleem-368301264)
+- 🌐 [Portfolio](https://my-portfolio-orcin-psi-52.vercel.app/)
+- 📧 [Email](mailto:syedmahammad.saleem@gmail.com)
 
-## 🌱 My Learning Journey
-
-I am continuously learning, practising and building projects to improve my software development skills.
-
-My goal is to become a skilled Web Developer by understanding the fundamentals, writing better code and building practical applications.
-
-⭐ Feel free to explore my repositories and share your feedback.
-
-Thanks for visiting my profile!
+Thanks for visiting my GitHub! Feel free to explore my repositories.
